@@ -4,7 +4,6 @@ print("Welcome to the Brand Name Genrator")
 city= input("What city are you from?\n")
 
 #3. Ask the user for the name of a pet.
-
 pet= input("What is your pet's name?\n")
 
 #4. Combine the name of their city and pet and show them their band name.
